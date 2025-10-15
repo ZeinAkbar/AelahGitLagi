@@ -4,7 +4,7 @@ body {
     color: white;
     font-family: 'Orbitron', sans-serif;
 }
-h1 {
+.elonmas {
     background-color: rgb(150, 141, 141);
     border-radius: 10px;
     margin-top: 10px;
@@ -12,6 +12,7 @@ h1 {
 }
 img {
     border-radius: 25px;
+    box-shadow: 10px 10px 10px #B0B7BD;
 }
 h4 {
     padding: 15px 35px;
@@ -42,4 +43,26 @@ hr {
     border-radius: 10px;
     padding: 5px 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lawak {
+    width: 360px;
+    min-height: 100px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    padding: 10px 30px;
+}
+.footer {
+    background-color: black;
+    padding: 20px;
+    margin-top: 20px;
+}
+.footer .copy {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
 }
